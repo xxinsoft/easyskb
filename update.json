@@ -1,7 +1,7 @@
 {
-  "versionCode":170227
-  "versionName":"1.0.9"
-  "updateLog":"更新升级功能"
-  "downloadUrl":"https://"
-  "minSdkLevel":7
+  "versionCode": 170227,
+  "versionName": "1.0.9",
+  "updateLog": "更新升级功能",
+  "downloadUrl": "https://",
+  "minSdkLevel": 7
 }
